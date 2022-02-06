@@ -3,6 +3,7 @@ ProgLang course at FUV
 PLP (Programming Language Project):
   - Each student will pick a language that she is interested in learning and using
     for the rest of the semester
+  - Register your language on this Google Doc: https://docs.google.com/document/d/1H0S8Ki5Jrx_srZtxslGa-AgR2TXCsuEdg4JmHX8RhqA/edit?usp=sharing
   - I strongly recommend:
      - not picking a language that doesn't have good online resources or tutorials, or at least a
        few books that you can buy or get from a library
